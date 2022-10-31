@@ -5,3 +5,7 @@
 
 ## UI testing
 :baby_bottle:  | [Cross Browser Testing](https://www.softwaretestinghelp.com/how-is-cross-browser-testing-performed/)</br>
+
+## Code testing
+:baby_bottle:  | [Shift-Left paradigm](https://devopedia.org/shift-left)</br>
+:baby_bottle:  | [The Software Quality & Software Testing paradigms of Agile](https://www.linkedin.com/pulse/software-quality-testing-paradigms-agile-zafrir-ron)</br>
